@@ -28,7 +28,8 @@
   
   From there you will fill out the prompts as desired. Once complete your finished README file will be located in the dist folder. 
 
-
+  [Walkthrough Video Link] (https://drive.google.com/file/d/1OG1dAO3fb_R5ovCzqp_XJBt7aMkVZqRo/view?usp=sharing)
+  
   ## Contribute <a name="contribute"></a>
   If you would like to contribute you can fork this repo and clone it to your own computer. 
 
